@@ -16,7 +16,7 @@ This project was forked from [Shawak/downtify](https://github.com/Shawak/downtif
 
 ### Usage
 
-To use Downtify, you need to clone/download the repo and edit the `config.txt` file:
+To use Downtify, you need to clone/download the repo and edit the `config.xml` file:
 ```xml
 <configuration>
   <username>username</username>
