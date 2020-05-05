@@ -51,4 +51,4 @@ Feel free to help developing this mod by reporting any issues at our [bug tracke
 
 ### License
 
-Downtify ist licensed under the GNU General Public License v3, for more information please check out the [license information](https://github.com/eviabs/downtify-premium/blob/master/LICENSE).
+Downtify is licensed under the GNU General Public License v3, for more information please check out the [license information](https://github.com/eviabs/downtify-premium/blob/master/LICENSE).
