@@ -140,7 +140,7 @@ namespace Downtify.GUI
         private async Task FetchSongsFromUrl(string text)
         {
 
-            string[] urls = text.Split('\n');
+            string[] urls = text.Split(new[] { Environment.NewLine }, StringSplitOptions.RemoveEmptyEntries);
 
             foreach (string url in urls) {
 
