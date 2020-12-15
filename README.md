@@ -30,7 +30,7 @@ To use Downtify, you need to clone/download the repo and edit the `config.xml` f
 ```
 `username` + `password` must be valid Premium user credentials.
 
-`clientId` + `clientSecret` should be retrived from from [here](https://developer.spotify.com/documentation/general/guides/app-settings/#register-your-app).
+`clientId` + `clientSecret` should be retrived from [here](https://developer.spotify.com/documentation/general/guides/app-settings/#register-your-app).
 
 ### Downloading
 
